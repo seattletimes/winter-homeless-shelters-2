@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <%= t.include("partials/_head.html", grunt.data.json) %>
+    <% if (json.project.production && !json.project.embedded) { %>
+      <%= t.include("partials/_dataLayer.html") %>
+      <%= t.include("partials/_gtm.html") %>
+    <% } %>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <% if (json.project.production && !json.project.embedded) { %>
+      <%= t.include("partials/_gtmNoScript.html") %>
+    <% } %>
+    <responsive-child class="map-container">
+        <div class="outmost">
+          <section class="chatter">
+            <h1>Teeing Off | Seattle Times golf writers review courses around the region</h1>
+            <p>Seattle Times golf writer Scott Hanson and golf writer emeritus Craig Smith don’t profess to be the best golfers to ever hit the links. But that’s precisely why you should take notice of their golf course reviews. Hanson and Smith travel around the region playing public courses and report back on what’s great, what’s not and everything in between. Click on each golf course to see their ratings and links to their reviews.</p>
+          </section>
+
+          <div class="aspect-ratio-outer">
+            <div class="aspect-ratio-inner">
+
+              <leaflet-map zoom=10>
+                <tile-layer layer="cartoPositron"></tile-layer>
+              </leaflet-map>
+
+            </div>
+          </div>
+
+
+          <div class="source">Source: Homeless Shelters
+            <span class="credit">EMILY M. ENG / THE SEATTLE TIMES</div>
+        </div>
+      </responsive-child>
+    <script>
+      window.course = <%= JSON.stringify(json.SevereWeatherShelters) %>;
+    </script>
+
+    <script src="app.js" async></script>
+    <% if (json.project.production) { %>
+    <%= !json.project.embedded ? t.include("partials/_analytics.html") : "" %>
+    <%= t.include("partials/_workHere.html") %>
+    <% } %>
+  </body>
+</html>
