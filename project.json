@@ -6,7 +6,7 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": ""
+      "path": "2020/local/winter-homeless-shelters"
     }
   },
   "title": "",
@@ -18,5 +18,5 @@
   "sheets": ["1l1KJRvGnoCmRLgOYAH7zO2zR_CqE1Wde-Z4ghwn5ROE"],
   "docs": [],
   "embedded": true,
-  "production": false
+  "production": true
 }

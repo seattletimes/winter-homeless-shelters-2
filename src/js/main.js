@@ -28,10 +28,13 @@ window.course.forEach(function(data) {
   });
   var html = `
     <b>${data.shelterName}</b><br>
-    <i>${data.city}</i><br>
     <br>
-    Opened: ${data.openingDate}<br>
-    Shelter Type: ${data.shelterType}<br>
+    Address: <a href="https://www.google.com/maps/search/?api=1&query=${data.lat},${data.lng}" />${data.address}</a><br>
+    Open: ${data.openingDate}<br>
+    Available to: ${data.availableTo}<br>
+    Hours: ${data.hours}<br>
+    Phone number: ${data.phone}<br>
+    Website: <a href="${data.website}"/>${data.website}</a><br>
 
   `;
   console.log(marker);
