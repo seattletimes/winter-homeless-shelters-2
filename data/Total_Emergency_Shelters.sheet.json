@@ -202,7 +202,7 @@
     "agencyName": "DESC ",
     "Form": "Nonprofit ",
     "city": "Seattle ",
-    "address": "517 3rd Ave. Seattle WA 98104",
+    "address": "517 Third Ave. Seattle WA 98104",
     "lat": 47.602646,
     "lng": -122.33139,
     "phoneNumber": "206-464-1570",
@@ -284,5 +284,15 @@
     "availableTo": "",
     "Capacity": "",
     "Notes": "You cannot arrive by foot to this location. There are 3 pick-up locations: Lynnwood City Hall on 44th Ave. Lynnwood at 7 p.m., West bound bus stop on 196th Street at James Village at 7:05 p.m. and Value Village Sign on Highway 99 on 172th Street at Lynnwood at 7:35 p.m. You can also arrive by car or bicycle "
+  },
+  {
+    "shelterName": "Phinney Ridge Winter Weather Shelter ",
+    "agencyName": 47.664802,
+    "Form": -122.352138,
+    "city": "Now ",
+    "address": "",
+    "lat": "http://emmanuelphinneyridge.org/mens-shelter/",
+    "lng": "7:30 p.m. - 6:30 p.m. ",
+    "phoneNumber": "Men over age 18 "
   }
 ]

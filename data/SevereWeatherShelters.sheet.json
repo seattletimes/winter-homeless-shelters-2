@@ -174,7 +174,7 @@
     "phone": "530-913-0995",
     "website": "https://www.snohd.org/471/Cold-Weather-Shelters",
     "hours": "8 p.m. - 7 a.m.",
-    "availableTo": "Unknown "
+    "availableTo": "Single adults and families"
   },
   {
     "shelterName": "Snohomish Cold Weather Shelter ",
@@ -215,7 +215,77 @@
     "openingDate": "Sunday, Jan. 12",
     "phone": "206-743-9843",
     "website": "https://www.snohd.org/471/Cold-Weather-Shelters",
-    "hours": "Opens 7 p.m. ",
-    "availableTo": "Unknown "
+    "hours": "7 p.m. - 7 a.m.",
+    "availableTo": "Single adults and families"
+  },
+  {
+    "shelterName": "Seattle's Union Gospel Mission Severe Weather Shelter",
+    "agencyName": "",
+    "city": "",
+    "county": "",
+    "address": "318 Second Ave. Ext. S., Seattle WA 98104",
+    "lat": 47.600767,
+    "lng": -122.330527,
+    "openingDate": "Now",
+    "phone": "206-379-8140",
+    "website": "https://www.ugm.org/",
+    "hours": "7 p.m. - 6 a.m. ",
+    "availableTo": "Men over age 18"
+  },
+  {
+    "shelterName": "Eastside Single Men Winter Weather Shelter ",
+    "agencyName": "",
+    "city": "",
+    "county": "",
+    "address": "515B 116th Ave. N.E., Bellevue WA 98004",
+    "lat": 47.614893,
+    "lng": -122.187606,
+    "openingDate": "Now ",
+    "phone": "425-528-6619",
+    "website": "https://bellevuewa.gov/city-government/departments/parks/community-services/human-services/local-service-agencies",
+    "hours": "24/7",
+    "availableTo": "Men over age 18 "
+  },
+  {
+    "shelterName": "Eastside Single Women Winter Weather Shelter",
+    "agencyName": "",
+    "city": "",
+    "county": "",
+    "address": "15727 N.E. Fourth St., Bellevue WA 98004",
+    "lat": 47.612624,
+    "lng": -122.129895,
+    "openingDate": "Now ",
+    "phone": "425-463-6254",
+    "website": "https://bellevuewa.gov/city-government/departments/parks/community-services/human-services/local-service-agencies",
+    "hours": "24/7",
+    "availableTo": "Women over age 18"
+  },
+  {
+    "shelterName": "Eastside Family Winter Weather Shelter ",
+    "agencyName": "",
+    "city": "",
+    "county": "",
+    "address": "11920 N.E. 80th St. Suite 100, Kirkland WA 98033",
+    "lat": 47.676068,
+    "lng": -122.181059,
+    "openingDate": "Now ",
+    "phone": "206-900-5908",
+    "website": "https://bellevuewa.gov/city-government/departments/parks/community-services/human-services/local-service-agencies",
+    "hours": "24/7",
+    "availableTo": "Familes with children"
+  },
+  {
+    "shelterName": "Eastside Young Adult Winter Weather Shelter ",
+    "agencyName": "",
+    "city": "",
+    "county": "",
+    "address": "16225 N.E. 87th St. Suite A-1, Redmond WA 98052 ",
+    "lat": 47.679552,
+    "lng": -122.123696,
+    "openingDate": "Now ",
+    "phone": "425-449-3868",
+    "website": "https://bellevuewa.gov/city-government/departments/parks/community-services/human-services/local-service-agencies",
+    "hours": "8:30 p.m - 8 a.m.",
+    "availableTo": "Ages 18 - 24"
   }
 ]

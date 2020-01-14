@@ -30,7 +30,7 @@ window.course.forEach(function(data) {
     <b>${data.shelterName}</b><br>
     <br>
     Address: <a href="https://www.google.com/maps/search/?api=1&query=${data.lat},${data.lng}" />${data.address}</a><br>
-    Open: ${data.openingDate}<br>
+
     Available to: ${data.availableTo}<br>
     Hours: ${data.hours}<br>
     Phone number: ${data.phone}<br>
