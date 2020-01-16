@@ -79,34 +79,6 @@
     "Notes": "Night, winter shelter operates Nov. 1, 2019 - March 31, 2020 for adults in Lake City, provides hot dinner and cold breakfast "
   },
   {
-    "shelterName": "Kent Severe Weather Shelter ",
-    "agencyName": "",
-    "city": "",
-    "county": "",
-    "address": "336 Second Ave. S., Kent WA 98032",
-    "lat": 47.379181,
-    "lng": -122.234479,
-    "openingDate": "Monday, Jan. 13",
-    "phone": "253-856-5070",
-    "website": "www.crisisconnections.org",
-    "hours": "8 p.m - 7 a.m.",
-    "availableTo": "Single adults and families"
-  },
-  {
-    "shelterName": "Renton Severe Weather Shelter",
-    "agencyName": "",
-    "city": "",
-    "county": "",
-    "address": "300 Rainier Ave. N., Renton WA 98057",
-    "lat": 47.487588,
-    "lng": -122.217783,
-    "openingDate": "Monday, Jan. 13",
-    "phone": "425-430-6600",
-    "website": "www.crisisconnections.org",
-    "hours": "8 p.m. - 7 a.m.; breakfast served, 7 a.m. - 10 a.m.",
-    "availableTo": "Single adults and families"
-  },
-  {
     "shelterName": "City of Shoreline Severe Weather Shelter",
     "agencyName": "",
     "city": "",
@@ -135,20 +107,6 @@
     "availableTo": "Anyone over age 18"
   },
   {
-    "shelterName": "Federal Way Severe Weather Shelter ",
-    "agencyName": "",
-    "city": "",
-    "county": "",
-    "address": "33325 Eighth Ave. S., Federal Way WA 98003",
-    "lat": 47.30425,
-    "lng": -122.326488,
-    "openingDate": "Monday, Jan. 13",
-    "phone": "206-323-6335",
-    "website": "www.crisisconnections.org",
-    "hours": "8:30 p.m. - 7 a.m.",
-    "availableTo": "Single adults and families"
-  },
-  {
     "shelterName": "Vashon Island Severe Weather Shelter",
     "agencyName": "",
     "city": "",
@@ -163,20 +121,6 @@
     "availableTo": "Single adults and families, restricted to residents of Vashon"
   },
   {
-    "shelterName": "Marysville Cold Weather Shelter ",
-    "agencyName": "",
-    "city": "",
-    "county": "",
-    "address": "1108 State Ave., Marysville WA 98270",
-    "lat": 48.061015,
-    "lng": -122.176441,
-    "openingDate": "Sunday, Jan. 12",
-    "phone": "530-913-0995",
-    "website": "https://www.snohd.org/471/Cold-Weather-Shelters",
-    "hours": "8 p.m. - 7 a.m.",
-    "availableTo": "Single adults and families"
-  },
-  {
     "shelterName": "Snohomish Cold Weather Shelter ",
     "agencyName": "Snohomish Evangelical Free Churhc",
     "city": "Snohomish",
@@ -188,20 +132,6 @@
     "phone": "425-512-7599",
     "website": "https://www.snohd.org/471/Cold-Weather-Shelters",
     "hours": "Intake, 8 - 10 p.m.",
-    "availableTo": "Single adults and families "
-  },
-  {
-    "shelterName": "Monroe Cold Weather Shelter ",
-    "agencyName": "New Hope Fellowship",
-    "city": "Monroe",
-    "county": "Snohomish",
-    "address": "1012 W. Main St., Monroe WA 98272",
-    "lat": 47.851391,
-    "lng": -121.984378,
-    "openingDate": "Sunday, Jan. 12",
-    "phone": "425-512-7599",
-    "website": "https://www.snohd.org/471/Cold-Weather-Shelters",
-    "hours": "8 p.m. - 8 a.m. ",
     "availableTo": "Single adults and families "
   },
   {
@@ -272,7 +202,10 @@
     "phone": "206-900-5908",
     "website": "https://bellevuewa.gov/city-government/departments/parks/community-services/human-services/local-service-agencies",
     "hours": "24/7",
-    "availableTo": "Familes with children"
+    "availableTo": "Familes with children",
+    "Capacity": "",
+    "Notes": "",
+    "undefined": "The Salt House Church Location "
   },
   {
     "shelterName": "Eastside Young Adult Winter Weather Shelter ",
@@ -287,5 +220,117 @@
     "website": "https://bellevuewa.gov/city-government/departments/parks/community-services/human-services/local-service-agencies",
     "hours": "8:30 p.m - 8 a.m.",
     "availableTo": "Ages 18 - 24"
+  },
+  {
+    "shelterName": "Bainbridge Island Severe Weather Shelter ",
+    "agencyName": "",
+    "city": "",
+    "county": "",
+    "address": "370 Brien Dr. S.E., Bainbridge Island WA 98110",
+    "lat": 47.623634,
+    "lng": -122.517318,
+    "openingDate": "Now ",
+    "phone": 211,
+    "website": "https://www.kitsapdailynews.com/news/kitsap-severe-weather-shelters-open-through-thursday/",
+    "hours": "Intake, 6 - 9 p.m.; shelter, 6 p.m. - 7 a.m.",
+    "availableTo": "Single adults and families"
+  },
+  {
+    "shelterName": "Poulsbo Severe Weather Shelter ",
+    "agencyName": "",
+    "city": "",
+    "county": "",
+    "address": "18901 8th Ave. N.E., Poulsbo WA 98370",
+    "lat": 47.734448,
+    "lng": -122.640076,
+    "openingDate": "Now ",
+    "phone": 211,
+    "website": "https://www.kitsapdailynews.com/news/kitsap-severe-weather-shelters-open-through-thursday/",
+    "hours": "Intake, 6 - 9 p.m.; shelter, 6 p.m. - 7 a.m.",
+    "availableTo": "Single adults and families"
+  },
+  {
+    "shelterName": "Port Orchard Severe Weather Shelter ",
+    "agencyName": "",
+    "city": "",
+    "county": "",
+    "address": "725 Kitsap St., Port Orchard WA 98366",
+    "lat": 47.54096,
+    "lng": -122.636858,
+    "openingDate": "Now ",
+    "phone": 211,
+    "website": "https://www.kitsapdailynews.com/news/kitsap-severe-weather-shelters-open-through-thursday/",
+    "hours": "Intake, 6 - 9 p.m.; shelter, 6 p.m. - 7 a.m.",
+    "availableTo": "Single adults and families"
+  },
+  {
+    "shelterName": "Silverdale Severe Weather Shelter ",
+    "agencyName": "",
+    "city": "",
+    "county": "",
+    "address": "9982 Silverway Way, Silverdale WA 98383",
+    "lat": 47.653627,
+    "lng": -122.68978,
+    "openingDate": "Now ",
+    "phone": 211,
+    "website": "https://www.kitsapdailynews.com/news/kitsap-severe-weather-shelters-open-through-thursday/",
+    "hours": "Intake, 6 - 9 p.m.; shelter, 6 p.m. - 7 a.m.",
+    "availableTo": "Single adults and families"
+  },
+  {
+    "shelterName": "Kingston Severe Weather Shelter ",
+    "agencyName": "",
+    "city": "",
+    "county": "",
+    "address": "26159 Dulay Rd. N.E., Kingston WA 98346",
+    "lat": 47.799438,
+    "lng": -122.502316,
+    "openingDate": "Now ",
+    "phone": 211,
+    "website": "https://www.kitsapdailynews.com/news/kitsap-severe-weather-shelters-open-through-thursday/",
+    "hours": "Intake, 6 - 9 p.m.; shelter, 6 p.m. - 7 a.m.",
+    "availableTo": "Single adults and families"
+  },
+  {
+    "shelterName": "Bremerton Winter Weather Shelter ",
+    "agencyName": "",
+    "city": "",
+    "county": "",
+    "address": "832 Sixth St., Bremerton WA 98337",
+    "lat": 47.56772,
+    "lng": -122.632131,
+    "openingDate": "Now ",
+    "phone": "360-373-5550",
+    "website": "https://www.kitsapdailynews.com/news/kitsap-severe-weather-shelters-open-through-thursday/",
+    "hours": "7 p.m. - 6 a.m. ",
+    "availableTo": "Single adults and families"
+  },
+  {
+    "shelterName": "Bitter Lake Community Center Severe Weather Shelter ",
+    "agencyName": "",
+    "city": "",
+    "county": "",
+    "address": "13035 Linden Ave. N., Seattle WA 98133",
+    "lat": 47.724232,
+    "lng": -122.34862,
+    "openingDate": "Now ",
+    "phone": "866-427-4747",
+    "website": "www.crisisconnections.org",
+    "hours": "24/7",
+    "availableTo": "Anyone over age 18"
+  },
+  {
+    "shelterName": "Seattle Municipal Tower Severe Weather Shelter ",
+    "agencyName": "",
+    "city": "",
+    "county": "",
+    "address": "700 Fifth Ave., Seattle WA 98104",
+    "lat": 47.605384,
+    "lng": -122.32981,
+    "openingDate": "Now ",
+    "phone": "866-427-4747",
+    "website": "www.crisisconnections.org",
+    "hours": "7 p.m. - 6:30 a.m. ",
+    "availableTo": "Anyone over age 18"
   }
 ]
