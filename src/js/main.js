@@ -29,12 +29,12 @@ window.course.forEach(function(data) {
   var html = `
     <b>${data.shelterName}</b><br>
     <br>
-    Address: ${data.address}<br>
+    Address: <a href="https://www.google.com/maps/search/?api=1&query=${data.lat},${data.lng}" target="_blank" rel="noopener noreferrer"/>${data.address}</a><br>
 
     Available to: ${data.availableTo}<br>
     Hours: ${data.hours}<br>
     Phone number: ${data.phone}<br>
-    Website: ${data.website}<br>
+    Website: <a href="${data.website}" target="_blank" rel="noopener noreferrer"/>${data.website}</a><br>
 
   `;
   console.log(marker);
